@@ -1,4 +1,4 @@
-// http://rosalind.info/problems/lgis/
+// http://rosalind.info/problems/prob/
 
 package main
 
