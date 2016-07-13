@@ -1,4 +1,4 @@
-// http://rosalind.info/problems/rstr
+// http://rosalind.info/problems/rstr/
 
 package main
 
